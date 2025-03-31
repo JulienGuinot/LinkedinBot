@@ -23,6 +23,7 @@ An automated bot that helps you apply for jobs on LinkedIn using the "Easy Apply
 
 ## 🛠️ Prerequisites
 
+- Bun
 - Node.js
 - Google Chrome browser
 - LinkedIn account
