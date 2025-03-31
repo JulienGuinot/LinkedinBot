@@ -44,11 +44,8 @@ npm install
 
 
 
-3. Create a `.env` file in the root directory with:
+3. Create a `.env` file in the root directory based on the `.env.example` and fill necessary variables:
 
-```
-DISCORD_WEBHOOK_URL=your_discord_webhook_url
-```
 
 
 
