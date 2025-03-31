@@ -5,6 +5,8 @@ An automated bot that helps you apply for jobs on LinkedIn using the "Easy Apply
 
 # WARNING : This script only works if you linkedin language is set to 'FR - French', For now...
 
+![Demo](./demo.png)
+
 ## 🌟 Features
 
 - Automatically finds and applies to "Easy Apply" jobs on LinkedIn
