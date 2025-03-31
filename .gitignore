@@ -1,0 +1,6 @@
+.env
+node_modules
+html
+data
+debug.ts
+resume.json
